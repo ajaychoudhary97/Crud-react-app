@@ -16,3 +16,52 @@ code {
 {
   padding: 5px;
 }
+
+.fc-prev-button
+{
+  border-radius: 50% !important;
+  margin-right: 27px !important;
+
+}
+
+.fc-next-button
+{
+  border-radius: 50% !important;
+  margin-left: 27px !important;
+
+
+}
+
+
+.fc-toolbar-chunk div:first-child
+{
+
+  display: flex;
+}
+
+.label1
+{
+  
+  display: flex;
+  
+
+}
+
+.main-div
+{
+  margin-top: 82px;
+}
+
+.line1
+{
+  margin-bottom: 22px;
+}
+
+.search-bar
+{
+    position: relative;
+    bottom: 23px;
+    width: 265px;
+    height: 21px;
+  
+}

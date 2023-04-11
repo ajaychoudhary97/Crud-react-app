@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "fullname": "Ajay Choudhary",
+      "email": "acchoudhary10045@gmail.com",
+      "address": "Udaipur Rajasthan",
+      "mobile": "7987289832"
+    },
+    {
+      "id": 2,
+      "fullname": "Sam Choudhary",
+      "email": "sam@gmail.com",
+      "address": "Ahemdabad",
+      "mobile": "7554789832"
+    },
+    {
+      "id": 3,
+      "fullname": "Raj Choudhary",
+      "email": "raj22@gmail.com",
+      "address": "Kota Rajasthan",
+      "mobile": "689789832"
+    },
+    {
+      "id": 4,
+      "name": "suresh singh",
+      "email": "suresh21@gmail.com",
+      "address": "Udaipur rajasthan",
+      "mobile": "878465484"
+    },
+    {
+      "id": 5,
+      "name": "Abhinav singh Rajput",
+      "email": "abhinav31@gmail.com",
+      "address": "Ajmer rajasthan",
+      "mobile": "8796348765"
+    },
+    {
+      "id": 6,
+      "name": "Vikram Singh Jain",
+      "email": "vikram32@gmail.com",
+      "address": "Udaipur rajasthan",
+      "mobile": "9354678522"
+    },
+    {
+      "id": 7,
+      "name": "Avinash Singh Jhala",
+      "email": "jhalaavinash32@gmail.com",
+      "address": "Surat Ahemdabad",
+      "mobile": "6975456445"
+    },
+    {
+      "id": 8,
+      "name": "Manish Singh Choudhary",
+      "email": "manish132@gmail.com",
+      "address": "Baroda Ahemdabad",
+      "mobile": "9116881195"
+    },
+    {
+      "id": 9,
+      "name": "Ranveer Singh Choudhary",
+      "email": "manish632@gmail.com",
+      "address": "Rajkot Ahemdabad",
+      "mobile": "9585121195"
+    },
+    {
+      "id": 10,
+      "name": "Mahi Singh Rajput",
+      "email": "mahisingh62@gmail.com",
+      "address": "Ahemdabad Ahemdabad",
+      "mobile": "9874632541"
+    },
+    {
+      "id": 11,
+      "name": "Saransh Jain",
+      "email": "saransjjain32@gmail.com",
+      "address": "Ahemdabad Gujarat",
+      "mobile": "6697512322"
+    },
+    {
+      "id": 12,
+      "name": "Akash Jain",
+      "email": "akashjain32@gmail.com",
+      "address": "Ahemdabad Gujarat",
+      "mobile": "6657512322"
+    }
+  ]
+}

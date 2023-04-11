@@ -1,5 +1,5 @@
 import React from 'react'
-import Content1 from './Content1'
+// import Content1 from './Content1'
 
 const Contexts = ({asd}) => {
 
